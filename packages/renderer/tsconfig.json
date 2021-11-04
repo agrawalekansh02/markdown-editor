@@ -2,7 +2,7 @@
   "extends": "../../tsconfig.json",
   "compilerOptions": {
     "baseUrl": ".",
-    "jsk": "react",
+    "jsx": "react",
     "allowSyntheticDefaultImports": true,
     "paths": {
       "/@/*": [
